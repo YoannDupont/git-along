@@ -8,3 +8,4 @@ Aujourd'hui, j'ai démarré mon journal :
 - pusher
 
 blabla
+bonjour
